@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "name": "Next_notify_saif",
+  "short_name": "Next_notify_saif",
+  "icons": [
+    {
+      "src": "./icon.jpeg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
