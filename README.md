@@ -1,3 +1,5 @@
+Developed a Next.js application with push notification functionality and implemented it as a Progressive Web App (PWA). This allows users to receive notifications even when the website is not actively open in their browser. Utilized service workers and the Push API to enable this feature, ensuring a seamless user experience. Additionally, the application is optimized for offline use, enabling users to access content even when they're not connected to the internet. Overall, this Next.js app combines the power of modern web technologies to deliver a robust and engaging user experience.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
